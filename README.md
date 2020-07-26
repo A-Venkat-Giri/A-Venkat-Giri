@@ -1,7 +1,7 @@
-  <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 	<head>
-		<title>Venkat Giri, Tech & Space Enthusiast</title>
+		<title>Tech & Space Enthusiast</title>
 		
 	</head>
  </html>
