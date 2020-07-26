@@ -1,4 +1,4 @@
-  [![Hi there 👋](https://cdn.pixabay.com/photo/2016/03/26/13/09/notebook-1280538_960_720.jpg)]
+  ![Hi there 👋](https://cdn.pixabay.com/photo/2016/03/26/13/09/notebook-1280538_960_720.jpg)
 
 <!--
 **A-Venkat-Giri/A-Venkat-Giri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
