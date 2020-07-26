@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as a Software Developer at Capgemini
 - 🌱 I’m currently learning to write clean code
 - 👯 Open to collaborate on projects in the field of AI,HCI for the betterment of our future
-- ⚡ Fun fact: I'm exploring and trying to make new cuisines(Italian, Mexican, Indian,American,British, French)
-               If you think you have a good recipe in your mind, then happy to hear about it.
+- ⚡ Fun fact: I'm exploring and trying to make new cuisines(Italian, Mexican, Indian,American,British, French).
+                          If you think you have a good recipe in your mind, then happy to hear about it.
                
 
