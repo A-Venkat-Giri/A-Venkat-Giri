@@ -13,3 +13,4 @@ Here are some ideas to get you started:
                           If you think you have a good recipe in your mind, then happy to hear about it.
                
 
+![Venkat Giri's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Venkat-Giri&show_icons=true&theme=transparent)
