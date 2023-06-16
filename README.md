@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently pursuing my Master's Degree in Electrical Engineering, specializing in Machine Learning and Data Science track at University of Southern      California, Los Angeles.
 - 🌱 I’m currently learning to write clean code
 - 👯 Open to collaborate and discuss on projects in the field of Software Development, Machine Learning, Human Computer Interaction, Artificial Intelligence.
-- ⚡ Fun fact: I'm exploring and trying to make new cuisines(Italian, Mexican, Indian,American,British, French).
+- ⚡ Fun fact: I'm exploring and trying to make new cuisines(Italian, Mexican, Indian, American & French).
                           If you think you have a good recipe in your mind, then happy to hear about it.
                
 
